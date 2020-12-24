@@ -28,3 +28,7 @@ $ python generate.py sudeeph_b output_word_cloud
 ```
 
 This saves the wordcloud as seen below in 'output_word_cloud.png'
+
+### Sample output
+
+![Sample output](https://github.com/sudeephb/twitter-word-cloud-generator/blob/main/output_word_cloud.png?raw=true)
