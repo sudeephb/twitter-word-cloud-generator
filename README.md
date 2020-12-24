@@ -12,7 +12,7 @@ $ cd twitter-word-cloud-generator
 $ pip install -r requirements.txt
 ```
 
-Them, open the <i> 'keys.json' </i> file. Replace all the 'XXXXX' by the corresponding secret keys that you obtained from https://developer.twitter.com/.   
+Them, open the <i> 'keys.json' </i> file. Replace all the "XXXXX" by the corresponding secret keys that you obtained from https://developer.twitter.com/.   
 
 After that, run the <i> 'generate.py' </i> file passing the username of the user whose tweets you want to see the wordcloud of. You can also pass the desired
 filename of the output file, without extenstion. If not passed, it defaults to <i> 'my_wordcloud.png' </i>
