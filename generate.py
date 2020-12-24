@@ -1,6 +1,5 @@
 import json
 import twitter 
-import pickle
 import preprocessor as p
 import string
 import matplotlib.pyplot as plt
@@ -82,7 +81,6 @@ def main():
 
     except:
         print("Error! \nMake sure everything's good.")
-
 
 
 
