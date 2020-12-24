@@ -21,7 +21,7 @@ filename of the output file, without extenstion. If not passed, it defaults to <
 $ python generate.py username [filename]
 ```
 
-For example, if I wanted to generate a word cloud of [my tweets](https://twitter.com/sudeeph_b) in the file <i>'output_cloud.png'</i> : 
+For example, if I wanted to generate a word cloud of [my tweets](https://twitter.com/sudeeph_b) in the file <i>'output_word_cloud.png'</i> : 
 
 ```
 $ python generate.py sudeeph_b output_word_cloud
